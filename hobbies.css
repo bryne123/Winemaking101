@@ -1,61 +1,57 @@
-body{
-    margin:0;
+body {
+  margin: 0;
 }
-#container{
-    height:100vh;
-    width:100vw;
-    background-color:pink;
-    margin:0;
-    padding: 0;
-    
-
+#container {
+  height: 100vh;
+  width: 100vw;
+  background-color: pink;
+  margin: 0;
+  padding: 0;
 }
-#header{
-    background-color: purple;
-    height:10vh;
-    width:100;
-    font-size: 30px;
-    text-align:center;
+#header {
+  background-color: purple;
+  height: 10vh;
+  width: 100;
+  font-size: 30px;
+  text-align: center;
 }
-#side-bar-left{
-    height: 80vh;
-    width: 10vw;
-    background-color:blue;
-    color:white;
-    float: left;
-    
-
+#side-bar-left {
+  height: 80vh;
+  width: 10vw;
+  background-color: blue;
+  color: white;
+  float: left;
 }
-#side-bar-right{
-    height:80vh;
-    width: 10vw;
-    background-color:blue;
-    color:white;
-    float:right;
+#side-bar-right {
+  height: 80vh;
+  width: 10vw;
+  background-color: blue;
+  color: white;
+  float: right;
 }
-#body{
-    height: 80vh;
-    width: 80vw;
-    background-color:red;
-    margin:0;
-    margin-left:10vw;
-    float:center;
+#body {
+  height: 80vh;
+  width: 80vw;
+  background-color: red;
+  margin: 0;
+  margin-left: 10vw;
+  float: center;
 }
-#footer{
-    height: 20vh;
-    width: 100vw;
-    background-color:purple;
-    text-align: center;
- }
- #wineBottle1{
-    position: relative; 
-    top: -70px;
-    right: 140px;
-    height: 70px;   
- }
- #wineBottle2{
-    position: relative; 
-    top: -70px;
-    left: 1040px;
-    height: 70px;   
- }
+#footer {
+  height: 20vh;
+  width: 100vw;
+  background-color: purple;
+  text-align: center;
+}
+#wineBottle1 {
+  position: relative;
+  top: -70px;
+  right: 140px;
+  height: 70px;
+}
+#wineBottle2 {
+  position: relative;
+  top: -70px;
+  left: 1040px;
+  height: 70px;
+}

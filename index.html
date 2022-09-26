@@ -12,6 +12,20 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="hobbies.css" />
+
+    <script>
+      if (
+        confirm(
+          "Please confirm you are of the legal drinking age in your country."
+        )
+      ) {
+        alert("Welcome!");
+      } else {
+        alert(
+          "Sorry, you must be of the legal drinking age in your country in order to access this site"
+        );
+      }
+    </script>
   </head>
   <body>
     <div id="container">
